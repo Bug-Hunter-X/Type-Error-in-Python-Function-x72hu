@@ -1,0 +1,1 @@
+This repository contains a Python script demonstrating a common type error and its solution. The initial script attempts to add an integer and a string, which raises a TypeError. The solution demonstrates how to fix this by ensuring both operands are of the same type.
